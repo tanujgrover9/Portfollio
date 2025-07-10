@@ -87,7 +87,7 @@ img: "/WhatsApp Image 2025-07-01 at 16.34.46_5a67f314.jpg",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "",
+    link: "https://konnect-git-main-anshuman-singhs-projects.vercel.app/",
     sourceCode: "https://github.com/tanujgrover9/KonnectApp",
   },
   {
